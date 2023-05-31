@@ -1,4 +1,4 @@
-# Machine Unlearning in Recsys(or Graph) Papers
+# Machine Unlearning in Recsys (or Graph) Papers
 
 [2023](#2023) &nbsp;
 [2022](#2022) &nbsp;
